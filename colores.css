@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: rgb(6, 7, 7);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.titulo h1 {
+    color: rgb(218, 241, 10);
+    font-size: 80px;
+}
+
+.azul {
+    color: #f3f1f1;
+}
+
+.azul {
+    color: #0a0efa;
+}
+
+.rojo {
+    color: #fa0a0a;
+
+}
+
+.colores {
+    font-size: 36px;
+}
